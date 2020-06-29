@@ -1,12 +1,16 @@
 ---
-title: Another image test
+title: "Netlify: The fastest way to build the fastest sites."
 date: 2019-10-20T09:37:26.163Z
 published: true
 tags:
   - markdown
   - image
-  - test
-cover_image: /images/uploads/sun-3713835_1920.jpg
-description: I am trying some image uploads.
+cover_image: /images/uploads/netlify-platform.png
+description: >-
+  
+
+  **More speed. Less spend.** 900,000+ developers & businesses use Netlify to run web projects at global scale—without servers, devops, or costly infrastructure
 ---
-And I also write something down.
+
+
+Netlify gives enterprises the power to build without roadblocks, deploy with speed, and deliver highly responsive websites globally
